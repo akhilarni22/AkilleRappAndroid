@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269663917535",
+    "project_id": "akillerapp-and",
+    "storage_bucket": "akillerapp-and.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269663917535:android:af8c3f490bb61d0d4a606a",
+        "android_client_info": {
+          "package_name": "com.example.akillerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269663917535-59del15m46l2tdoi7hoi994v106e4ve0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDTRnIsXg5sWLJ1TGHfczj7AkZoZ0FUFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269663917535-59del15m46l2tdoi7hoi994v106e4ve0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
